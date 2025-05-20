@@ -5,4 +5,5 @@ module.exports = {
   devMode: false,
   mergeCss: false,
   writeRuntimeMap: false,
+  copyImgsAndJs: true,
 };
